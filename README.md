@@ -1,5 +1,8 @@
-### Hi there 👋
+### Lazy developer 
 
+- I’m currently on Android with Java, Kotlin and React Native.
+- I’m currently learning Advance Algorithm and Problem Solving.
+- How to reach me: https://randheer.me
 <!--
 **randheercode/randheercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
