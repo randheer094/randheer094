@@ -1,4 +1,4 @@
-### Lazy developer 
+### Lazy developer 👨‍💻
 
 - I’m currently on Android with Java, Kotlin and React Native.
 - I’m currently learning Advance Algorithm and Problem Solving.
