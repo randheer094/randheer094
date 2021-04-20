@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working at [Deskera](https://www.deskera.com/).
 - 🌱 I’m currently learning more about Android, React Native, and Algorithms.
-- 💬 Ask me about Android or Software Development.
+- 💬 Ask me about Android or Software Engineering.
 
 
 #### 🧰 Languages and Tools:
