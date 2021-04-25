@@ -15,10 +15,10 @@
 #### 📬 Contact:
 <p>
 <a href="https://www.linkedin.com/in/randheer094/">
-  <img align="left" alt="Find me on Linkdein" width="22px" src="https://github.com/randheercode/randheercode/blob/master/assets/li.png" />
+  <img align="left" alt="Find me on Linkdein" width="32" src="https://github.com/randheercode/randheercode/blob/master/assets/li.png" />
 </a>
 <a href="https://stackoverflow.com/users/3524134/rks">
-  <img align="left" alt="Find me on StackOverflow" width="22px" src="https://github.com/randheercode/randheercode/blob/master/assets/so.png" />
+  <img align="left" alt="Find me on StackOverflow" width="32" src="https://github.com/randheercode/randheercode/blob/master/assets/so.png" />
 </a>
 </p>
 
